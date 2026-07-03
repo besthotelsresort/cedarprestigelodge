@@ -1,0 +1,2 @@
+# cedarprestigelodge
+Static site: cedarprestigelodge
